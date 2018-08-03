@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hello_with_format.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_multiple_decl.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_decl_init.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="unsigned_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_type_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_min.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_max_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_min_underflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_stdint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_exponential_notation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_min_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_overflow_underflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_ascii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_ascii_hex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_zero.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_plus.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_linefeed.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_linefeed_ascii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="const.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="const_assign_error.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_literal_suffix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_literal_oct_hex_suffix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_literal_suffix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_two_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="getchar_putchar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="add_sub_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="add_sub_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="add_sub_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="decrement_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_decrement_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_decrement_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_decrement_postfix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_decrement_prefix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_decrement_postfix_argument.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="increment_decrement_prefix_argument.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mul_div_integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="div_zero_integer_error.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mul_div_real_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="div_zero_real_number_error.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mul_div_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mul_div_assign.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mod.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fmod.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mod.variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mod_assign.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="testpractice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type_promotion_int_to_float.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type_demotion_float_to_int.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type_demotion_int_to_char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
