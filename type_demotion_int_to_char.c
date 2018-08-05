@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main()
+int main65()
 {
     char num1 = 28;
     int num2 = 1000000002; 
