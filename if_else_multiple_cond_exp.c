@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int main()
+int main79()
 {
     int num1 = 10;
     int num2 = 20; 
